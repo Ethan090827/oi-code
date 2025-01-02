@@ -30,7 +30,7 @@ int main()
 		{
 			puts("Yes");
 			return 0;
-		}	
+		}
 	}
 	puts("No");
 	return 0;
