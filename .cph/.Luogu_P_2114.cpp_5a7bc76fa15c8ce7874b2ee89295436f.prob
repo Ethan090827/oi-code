@@ -1,0 +1,1 @@
+{"name":"Luogu_P2114","url":"https://www.luogu.com.cn/problem/P2114","memoryLimit":128000,"timeLimit":1000,"tests":[{"id":1732519041521,"input":"3 10\nAND 5\nOR 6\nXOR 7","output":"1"}],"group":"luogu","srcPath":"/home/noi/Desktop/hyz/Luogu_P_2114.cpp"}

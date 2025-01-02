@@ -1,0 +1,1 @@
+{"name":"Local: sub","url":"/home/noi/Desktop/hyz/1127/sub/sub.cpp","tests":[{"id":1732666187142,"input":"5\n1 -1\n3 -7\n-4 -1\n-5 8\n4 0\n","output":"0\n3\n0\n3\n0\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/noi/Desktop/hyz/1127/sub/sub.cpp","group":"local","local":true}

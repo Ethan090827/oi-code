@@ -1,0 +1,1 @@
+{"name":"Luogu_P3983","url":"https://www.luogu.com.cn/problem/P3983","memoryLimit":131072,"timeLimit":1000,"tests":[{"input":"11\n1 6 11 17 23 27 33 35 38 43","output":"32","id":1732846545962},{"id":1732846546050,"input":"7\n1 5 14 18 20 28 31 34 39 42","output":"21"}],"group":"luogu","srcPath":"/home/noi/Desktop/hyz/Luogu_P_3983.cpp"}

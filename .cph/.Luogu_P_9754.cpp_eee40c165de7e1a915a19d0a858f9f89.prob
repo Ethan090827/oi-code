@@ -1,0 +1,1 @@
+{"name":"Luogu_P9754","url":"https://www.luogu.com.cn/problem/P9754","memoryLimit":524288,"timeLimit":1000,"tests":[{"id":1729826656099,"input":"5\n1 a 2\nshort aa\nint ab\n1 b 2\na ba\nlong bb\n2 b x\n3 x.ba.ab\n4 10","output":"8 4\n16 8\n0\n4\nx.bb"}],"group":"luogu","srcPath":"/media/noi/E2C07AA5C07A7F99/hyz/hyz/Luogu_P_9754.cpp"}

@@ -1,0 +1,1 @@
+{"name":"Local: boast","url":"/home/noi/Desktop/hyz/1128-1/boast/boast.cpp","tests":[{"id":1732752387063,"input":"3\n1 2\n2 3\n3 2\n","output":"11\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/noi/Desktop/hyz/1128-1/boast/boast.cpp","group":"local","local":true}

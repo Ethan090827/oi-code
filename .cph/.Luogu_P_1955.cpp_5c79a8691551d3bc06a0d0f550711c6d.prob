@@ -1,0 +1,1 @@
+{"name":"Luogu_P1955","url":"https://www.luogu.com.cn/problem/P1955","memoryLimit":512000,"timeLimit":2000,"tests":[{"input":"2\n2\n1 2 1\n1 2 0\n2\n1 2 1\n2 1 1","output":"NO\nYES\n","id":1732599354914},{"id":1732599354890,"input":"2\n3\n1 2 1\n2 3 1\n3 1 1\n4\n1 2 1\n2 3 1\n3 4 1\n1 4 0\n","output":"YES\nNO"}],"group":"luogu","srcPath":"/home/noi/Desktop/hyz/Luogu_P_1955.cpp"}

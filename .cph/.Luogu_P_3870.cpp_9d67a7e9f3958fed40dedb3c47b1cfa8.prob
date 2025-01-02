@@ -1,0 +1,1 @@
+{"name":"Luogu_P3870","url":"https://www.luogu.com.cn/problem/P3870","memoryLimit":128000,"timeLimit":1000,"tests":[{"id":1732608000642,"input":"4 5\n0 1 2\n0 2 4\n1 2 3\n0 2 4\n1 1 4\n","output":"1\n2"}],"group":"luogu","srcPath":"/home/noi/Desktop/hyz/Luogu_P_3870.cpp"}

@@ -1,0 +1,1 @@
+{"name":"Luogu_P8306","url":"https://www.luogu.com.cn/problem/P8306","memoryLimit":1048576,"timeLimit":1000,"tests":[{"id":1732835507102,"input":"3\n3 3\nfusufusu\nfusu\nanguei\nfusu\nanguei\nkkksc\n5 2\nfusu\nFusu\nAFakeFusu\nafakefusu\nfusuisnotfake\nFusu\nfusu\n1 1\n998244353\n9","output":"2\n1\n0\n1\n2\n1"}],"group":"luogu","srcPath":"/home/noi/Desktop/hyz/Luogu_P_8306.cpp"}

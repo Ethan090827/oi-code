@@ -1,0 +1,1 @@
+{"name":"Luogu_UVA1328","url":"https://www.luogu.com.cn/problem/UVA1328","memoryLimit":0,"timeLimit":3000,"tests":[{"id":1732529099277,"input":"3\naaa\n12\naabaabaabaab\n0\n","output":"Test case #1\n2 2\n3 3\n\nTest case #2\n2 2\n6 2\n9 3\n12 4\n"}],"group":"luogu","srcPath":"/home/noi/Desktop/hyz/Luogu_UVA_1328.cpp"}

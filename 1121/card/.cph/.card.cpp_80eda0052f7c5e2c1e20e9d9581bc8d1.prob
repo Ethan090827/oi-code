@@ -1,0 +1,1 @@
+{"name":"Local: card","url":"/home/noi/Desktop/hyz/1121/card/card.cpp","tests":[{"id":1732173158645,"input":"5\n6 7\n5 8\n6 9\n3 6\n3 4\n","output":"4\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/noi/Desktop/hyz/1121/card/card.cpp","group":"local","local":true}

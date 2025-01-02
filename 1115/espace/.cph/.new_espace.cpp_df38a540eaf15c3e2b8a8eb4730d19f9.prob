@@ -1,0 +1,1 @@
+{"name":"Local: new_espace","url":"/home/noi/Desktop/hyz/1115/espace/new_espace.cpp","tests":[{"id":1732595281443,"input":"5\nABCBC\n3\nABCBC\nBCBCA\nBACBC\n","output":"yes\nyes\nno\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/noi/Desktop/hyz/1115/espace/new_espace.cpp","group":"local","local":true}

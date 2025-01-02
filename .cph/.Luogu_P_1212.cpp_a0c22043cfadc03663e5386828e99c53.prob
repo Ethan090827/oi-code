@@ -1,0 +1,1 @@
+{"name":"Luogu - P1212","url":"https://www.luogu.com.cn/problem/P1212","memoryLimit":128000,"timeLimit":952,"tests":[{"id":1734065134946,"input":"1 2\n2 3\n3 4\n4 5\n","output":"40\n4 10\n5 8\n"},{"id":1734069532407,"input":"1 5\n5 10\n10 15\n15 20","output":"520\n20 26"}],"group":"luogu","srcPath":"/home/noi/Desktop/hyz/Luogu_P_1212.cpp"}

@@ -1,0 +1,1 @@
+{"name":"Luogu_P1395","url":"https://www.luogu.com.cn/problem/P1395","memoryLimit":128000,"timeLimit":1000,"tests":[{"id":1732605818767,"input":"4\n1 2 \n2 3 \n3 4 \n","output":"2 4"}],"group":"luogu","srcPath":"/home/noi/Desktop/hyz/Luogu_P_1395.cpp"}

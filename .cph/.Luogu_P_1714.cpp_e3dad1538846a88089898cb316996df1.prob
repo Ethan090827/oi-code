@@ -1,0 +1,1 @@
+{"name":"Luogu_P1714","url":"https://www.luogu.com.cn/problem/P1714","memoryLimit":524288,"timeLimit":1000,"tests":[{"input":"5 2\n1 2 3 4 5","output":"9","id":1732528539657},{"id":1732528539589,"input":"6 3\n1 -2 3 -4 5 -6","output":"5"}],"group":"luogu","srcPath":"/home/noi/Desktop/hyz/Luogu_P_1714.cpp"}

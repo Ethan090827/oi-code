@@ -1,0 +1,4 @@
+"#ifndef ONLINE_JUDGE",
+"\tFileI(\".in\");",
+"\tFileO(\".out\");",
+"#endif",

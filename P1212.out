@@ -1,0 +1,194 @@
+
+1:4x5 2:4x3 3:3x2 4:1x2
+Case 1:L=4,W=12,S=48
+Case 2:L=5,W=10,S=50
+Case 3:L=5,W=10,S=50
+Case 4:L=7,W=10,S=70
+Case 5:L=8,W=9,S=72
+Case 6:L=8,W=8,S=64
+
+1:4x5 2:4x3 3:2x1 4:2x3
+Case 1:L=4,W=12,S=48
+Case 2:L=6,W=9,S=54
+Case 3:L=6,W=9,S=54
+Case 4:L=6,W=11,S=66
+Case 5:L=8,W=9,S=72
+Case 6:L=8,W=7,S=56
+
+1:4x5 2:2x3 3:4x3 4:1x2
+Case 1:L=4,W=13,S=52
+Case 2:L=5,W=11,S=55
+Case 3:L=5,W=11,S=55
+Case 4:L=6,W=10,S=60
+Case 5:L=6,W=10,S=60
+Case 6:L=6,W=9,S=54
+
+1:4x5 2:2x3 3:1x2 4:3x4
+Case 1:L=4,W=14,S=56
+Case 2:L=7,W=10,S=70
+Case 3:L=7,W=10,S=70
+Case 4:L=4,W=12,S=48
+Case 5:L=6,W=11,S=66
+Case 6:L=6,W=9,S=54
+
+1:4x5 2:2x1 3:3x4 4:2x3
+Case 1:L=4,W=13,S=52
+Case 2:L=6,W=10,S=60
+Case 3:L=6,W=10,S=60
+Case 4:L=5,W=12,S=60
+Case 5:L=6,W=12,S=72
+Case 6:L=6,W=8,S=48
+
+1:4x5 2:2x1 3:2x3 4:3x4
+Case 1:L=4,W=13,S=52
+Case 2:L=7,W=9,S=63
+Case 3:L=7,W=9,S=63
+Case 4:L=4,W=12,S=48
+Case 5:L=6,W=12,S=72
+Case 6:L=6,W=9,S=54
+
+1:3x4 2:5x4 3:2x3 4:2x1
+Case 1:L=5,W=12,S=60
+Case 2:L=7,W=11,S=77
+Case 3:L=7,W=11,S=77
+Case 4:L=7,W=9,S=63
+Case 5:L=8,W=8,S=64
+Case 6:L=8,W=7,S=56
+
+1:3x4 2:5x4 3:1x2 4:3x2
+Case 1:L=5,W=12,S=60
+Case 2:L=8,W=10,S=80
+Case 3:L=8,W=10,S=80
+Case 4:L=6,W=10,S=60
+Case 5:L=8,W=8,S=64
+Case 6:L=8,W=6,S=48
+
+1:3x4 2:2x3 3:5x4 4:2x1
+Case 1:L=5,W=12,S=60
+Case 2:L=7,W=11,S=77
+Case 3:L=5,W=11,S=55
+Case 4:L=7,W=9,S=63
+Case 5:L=5,W=9,S=45
+Case 6:L=7,W=9,S=63
+
+1:3x4 2:2x3 3:1x2 4:4x5
+Case 1:L=4,W=14,S=56
+Case 2:L=7,W=9,S=63
+Case 3:L=7,W=9,S=63
+Case 4:L=4,W=12,S=48
+Case 5:L=5,W=11,S=55
+Case 6:L=5,W=9,S=45
+
+1:3x4 2:2x1 3:4x5 4:3x2
+Case 1:L=4,W=12,S=48
+Case 2:L=7,W=10,S=70
+Case 3:L=6,W=10,S=60
+Case 4:L=6,W=11,S=66
+Case 5:L=5,W=11,S=55
+Case 6:L=7,W=8,S=56
+
+1:3x4 2:2x1 3:2x3 4:4x5
+Case 1:L=4,W=13,S=52
+Case 2:L=7,W=8,S=56
+Case 3:L=7,W=8,S=56
+Case 4:L=4,W=12,S=48
+Case 5:L=5,W=12,S=60
+Case 6:L=6,W=9,S=54
+
+1:2x3 2:5x4 3:3x4 4:1x2
+Case 1:L=5,W=13,S=65
+Case 2:L=6,W=11,S=66
+Case 3:L=6,W=11,S=66
+Case 4:L=8,W=9,S=72
+Case 5:L=7,W=10,S=70
+Case 6:L=7,W=8,S=56
+
+1:2x3 2:5x4 3:1x2 4:4x3
+Case 1:L=5,W=12,S=60
+Case 2:L=9,W=9,S=81
+Case 3:L=9,W=9,S=81
+Case 4:L=6,W=10,S=60
+Case 5:L=7,W=9,S=63
+Case 6:L=7,W=7,S=49
+
+1:2x3 2:3x4 3:4x5 4:1x2
+Case 1:L=4,W=14,S=56
+Case 2:L=5,W=12,S=60
+Case 3:L=4,W=12,S=48
+Case 4:L=7,W=10,S=70
+Case 5:L=5,W=11,S=55
+Case 6:L=5,W=9,S=45
+
+1:2x3 2:3x4 3:2x1 4:5x4
+Case 1:L=5,W=12,S=60
+Case 2:L=8,W=8,S=64
+Case 3:L=8,W=8,S=64
+Case 4:L=5,W=11,S=55
+Case 5:L=5,W=9,S=45
+Case 6:L=7,W=8,S=56
+
+1:2x3 2:2x1 3:4x5 4:4x3
+Case 1:L=4,W=12,S=48
+Case 2:L=8,W=9,S=72
+Case 3:L=6,W=9,S=54
+Case 4:L=6,W=11,S=66
+Case 5:L=4,W=11,S=44
+Case 6:L=8,W=7,S=56
+
+1:2x3 2:2x1 3:3x4 4:5x4
+Case 1:L=5,W=12,S=60
+Case 2:L=8,W=8,S=64
+Case 3:L=7,W=8,S=56
+Case 4:L=5,W=11,S=55
+Case 5:L=5,W=11,S=55
+Case 6:L=8,W=7,S=56
+
+1:1x2 2:5x4 3:3x4 4:2x3
+Case 1:L=5,W=13,S=65
+Case 2:L=7,W=10,S=70
+Case 3:L=7,W=10,S=70
+Case 4:L=8,W=9,S=72
+Case 5:L=6,W=11,S=66
+Case 6:L=6,W=8,S=48
+
+1:1x2 2:5x4 3:2x3 4:3x4
+Case 1:L=5,W=13,S=65
+Case 2:L=8,W=9,S=72
+Case 3:L=8,W=9,S=72
+Case 4:L=7,W=10,S=70
+Case 5:L=6,W=11,S=66
+Case 6:L=6,W=8,S=48
+
+1:1x2 2:3x4 3:4x5 4:2x3
+Case 1:L=4,W=14,S=56
+Case 2:L=6,W=11,S=66
+Case 3:L=5,W=11,S=55
+Case 4:L=7,W=10,S=70
+Case 5:L=4,W=12,S=48
+Case 6:L=6,W=9,S=54
+
+1:1x2 2:3x4 3:3x2 4:4x5
+Case 1:L=4,W=13,S=52
+Case 2:L=7,W=8,S=56
+Case 3:L=7,W=8,S=56
+Case 4:L=6,W=11,S=66
+Case 5:L=4,W=11,S=44
+Case 6:L=7,W=9,S=63
+
+1:1x2 2:3x2 3:5x4 4:3x4
+Case 1:L=5,W=12,S=60
+Case 2:L=8,W=8,S=64
+Case 3:L=6,W=8,S=48
+Case 4:L=8,W=10,S=80
+Case 5:L=5,W=10,S=50
+Case 6:L=8,W=7,S=56
+
+1:1x2 2:3x2 3:4x3 4:4x5
+Case 1:L=4,W=12,S=48
+Case 2:L=8,W=7,S=56
+Case 3:L=7,W=8,S=56
+Case 4:L=7,W=10,S=70
+Case 5:L=4,W=10,S=40
+Case 6:L=8,W=7,S=56
+40
+4 10
